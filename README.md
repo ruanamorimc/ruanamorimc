@@ -31,6 +31,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![node.JS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=57924f)&nbsp;
+
 
 #### Studying in this moment:
 
